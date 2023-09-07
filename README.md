@@ -30,4 +30,4 @@ Windows ou Linux
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#Aplicativo de Gerenciamento de Contatos)<br>
+[⬆ Voltar ao topo](#aplicativo-de-gerenciamento-de-contatos)<br>
