@@ -1,10 +1,10 @@
 # Aplicativo de Gerenciamento de Contatos
 
+> Objetivo: Desenvolver um aplicativo Desktop de gerenciamento de contatos utilizando a biblioteca PySide6 e SQLite. O aplicativo deve permitir adicionar, editar, excluir e listar contatos, bem como limpar os campos de entrada de dados.
+
 <br>
 
 <img src="images/tela_principal.png" alt="Tela Inicial APP">
-
-> Objetivo: Desenvolver um aplicativo Desktop de gerenciamento de contatos utilizando a biblioteca PySide6 e SQLite. O aplicativo deve permitir adicionar, editar, excluir e listar contatos, bem como limpar os campos de entrada de dados.
 
 ## 💻 Pré-requisitos
 
